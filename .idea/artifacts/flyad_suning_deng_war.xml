@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="flyad-suning-deng:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="suning-deng.war">
+      <element id="artifact" artifact-name="flyad-suning-deng:war exploded" />
+    </root>
+  </artifact>
+</component>
